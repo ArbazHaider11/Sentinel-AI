@@ -4,7 +4,7 @@ A Hybrid-RAG backend for conversational, document-grounded Q&A — built with Fa
 
 ## Demo
 
-**[Watch the demo video](https://youtu.be/lnetexZpv_Y)**
+**[Watch the demo video](https://youtu.be/stGbY7YArI0)**
 
 A short walkthrough covering the full pipeline end to end: uploading a new PDF and watching it get chunked and embedded live, asking a question the document actually answers, asking an out-of-scope question to show the grounding guardrail refuse to hallucinate, and a follow-up question that only resolves correctly using prior chat history.
 
